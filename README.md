@@ -3,10 +3,7 @@
 ### 🖥️ Programming Languages
 - ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ### 🔗 Blockchain & Smart Contracts
-- ![Solana](https://img.shields.io/badge/Solana-00FFA3?style=for-the-badge&logo=solana&logoColor=black) **Solana Development** - Rust-based smart contracts (programs), Anchor framework  
-- ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) **Ethereum & EVM Chains** - Solidity smart contracts, Web3.js, Ethers.js  
-- ⚡ **DeFi & Trading Bots** - Arbitrage, Sniper, Scalping, MEV bots on Solana and Ethereum  
-- 🔄 **Blockchain Protocols** - DEXs, Flash Loans, Swaps, NFT marketplaces  
+  ![Solana](https://img.shields.io/badge/Solana-00FFA3?style=for-the-badge&logo=solana&logoColor=black)   ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)   **DeFi & Trading Bots**  **Blockchain Protocols**   
 ### 🛠️ Tools & Frameworks
 - ![Anchor](https://img.shields.io/badge/Anchor-0C7C59?style=for-the-badge&logo=solana&logoColor=white) **Anchor (Solana framework)**  
 - ![Tokio](https://img.shields.io/badge/Tokio-FF6C37?style=for-the-badge) **Tokio, async-std** (Rust async runtimes)  
