@@ -7,11 +7,9 @@
   - **DeFi & Trading Bots**
   - **Blockchain Protocols**   
 ### 🛠️ Tools & Frameworks
-- ![Anchor](https://img.shields.io/badge/Anchor-0C7C59?style=for-the-badge&logo=solana&logoColor=white) ![Tokio](https://img.shields.io/badge/Tokio-FF6C37?style=for-the-badge)  ![Web3.js](https://img.shields.io/badge/Web3.js-1B1F23?style=for-the-badge) - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)   
+- ![Anchor](https://img.shields.io/badge/Anchor-0C7C59?style=for-the-badge&logo=solana&logoColor=white) ![Tokio](https://img.shields.io/badge/Tokio-FF6C37?style=for-the-badge)  ![Web3.js](https://img.shields.io/badge/Web3.js-1B1F23?style=for-the-badge) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)   
 ### ☁️ Cloud & DevOps
-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) **AWS, GCP** - Cloud hosting and serverless functions  
-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) **Kubernetes, Docker** - Container orchestration and deployment  
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ### 📊 Other Skills
 - 📈 **Data Visualization** - Dashboards for crypto data analytics  
 - 🤖 **Machine Learning & Technical Analysis** - Applied to trading strategies  
