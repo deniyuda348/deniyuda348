@@ -1,4 +1,4 @@
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills [📞Deni Yuda Mahendra](https://t.me/deni53532133221) 
 
 ### 🖥️ Programming Languages
 - ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) **Rust** (Advanced) - Systems programming, async, concurrency, performance optimization  
